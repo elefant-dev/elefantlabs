@@ -1,0 +1,4 @@
+baseURL = "https://elefantlabs.co/"
+languageCode = "en-us"
+title = "Elefant Labs"
+theme = "detox"
